@@ -1,0 +1,17 @@
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/bin/Debug/net7.0/EcommerceSSD
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/bin/Debug/net7.0/EcommerceSSD.deps.json
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/bin/Debug/net7.0/EcommerceSSD.runtimeconfig.json
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/bin/Debug/net7.0/EcommerceSSD.dll
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/bin/Debug/net7.0/EcommerceSSD.pdb
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.csproj.AssemblyReference.cache
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.GeneratedMSBuildEditorConfig.editorconfig
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.AssemblyInfoInputs.cache
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.AssemblyInfo.cs
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.csproj.CoreCompileInputs.cache
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.dll
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/refint/EcommerceSSD.dll
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.pdb
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.genruntimeconfig.cache
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/ref/EcommerceSSD.dll
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/sereya/Desktop/JiTu/Learning C#/EcommerceSSD/obj/Debug/net7.0/EcommerceSSD.csproj.CopyComplete

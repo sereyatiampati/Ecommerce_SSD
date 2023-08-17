@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "ProductName": "Throw blanket ",
+      "ProductDescription": "Softest blacket you'll come across, like a baby's bum",
+      "ProductPrice": "200",
+      "ProductCategory": "Fashion",
+      "id": 1
+    }
+  ]
+}
