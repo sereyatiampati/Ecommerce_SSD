@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Ecommerce.Controllers;
+
+// ProductsController.Init();
+
+class Program
+{
+    public async static Task Main(string[] args)
+    {
+        await ProductsController.Init();
+    }
+}
